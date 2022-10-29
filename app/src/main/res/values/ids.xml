@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ph_no" type="id" />
+    <item name="ph_no1" type="id" />
+    <item name="direction" type="id" />
+    <item name="direction1" type="id" />
+    <item name="service" type="id" />
+    <item name="service1" type="id" />
+</resources>
